@@ -1,0 +1,17 @@
+created: 20221017014818063
+creator: bbbbb
+modified: 20221017015230282
+modifier: bbbbb
+tags: [[ML:1 Dataset selection]]
+title: Dataset selection: 1 point, circle and polygon based landslide
+type: text/vnd.tiddlywiki
+
+Huang, F. et al. Uncertainty pattern in landslide susceptibility prediction modelling: Effects of different landslide boundaries and spatial shape expressions. Geoscience Frontiers 13, 101317 (2022).
+
+Huang et al., 2022
+
+Compairing with point and circle based landeslides inventory, polygon based can reduce the uncertainty when machine learning.
+
+Data distribution is another method to analysis the uncertainty in susceptibility prediction.
+
+The performance of RF is better than SVM.
