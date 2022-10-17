@@ -1,0 +1,19 @@
+created: 20221014015831179
+creator: bbbbb
+modified: 20221014045805725
+modifier: bbbbb
+tags: [[ML:2 Mapping units]]
+title: Mapping units: 2 defference in slope units
+type: text/vnd.tiddlywiki
+
+Martinello, C., Cappadonia, C., Conoscenti, C. & Rotigliano, E. Landform classification: a high-performing mapping unit partitioning tool for landslide susceptibility assessment-a test in the Imera River basin (northern Sicily, Italy). Landslides 19, 539–553 (2022).
+
+(Martinello et al., 2022)
+
+Topographic Position Index–based Landform Classification was used to futher devide sublope after DEM partition, and acquired a highest AUC socre comparing to other method.
+
+The slope units calssification can generate from pixel based mapping result, wihch can contribute to inrease the continuity of mapping.
+
+---
+# If featureA was used to divide the slope units and to train a dataset, whether A was taken account twice or not?
+# Pixel, slope units, condition units can be devided by classified according to no feature, one feature(Aspect), more than one featues.

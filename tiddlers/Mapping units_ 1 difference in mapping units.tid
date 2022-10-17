@@ -1,0 +1,27 @@
+created: 20221014014250295
+creator: bbbbb
+modified: 20221014045837914
+modifier: bbbbb
+tags: [[ML:2 Mapping units]]
+title: Mapping units: 1 difference in mapping units
+type: text/vnd.tiddlywiki
+
+Huang, F. et al. Efficient and automatic extraction of slope units based on multi-scale segmentation method for landslide assessments. Landslides 18, 3715–3731 (2021).
+
+(Huang et al., 2021)
+
+The main used mapping units include grid units, slope units, unique condition units and small watershed units. 
+
+The small watershed units are more suitable for risk assessment of the debris flow and flood since a watershed contains several slopes.
+
+The multi-scale segmentation(MSS) method is based on the princeple of maxmum regional internal Homogeneity and heterogeneity between units.
+
+
+The terrain aspect and shaded relif images were used to divide slope units.
+
+However, they think that the patition of slope units also need to regard other features. 
+
+
+
+
+
