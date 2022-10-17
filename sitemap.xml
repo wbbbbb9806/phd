@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:1541984921150-27fd9c9e-357f-49f4-9103-40c2056f89ef.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:1541984965427-b873c5fb-c850-410d-9f65-0fe6d5988a05.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Basic%2520element</loc>
+		<lastmod>2022-10-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:C#</loc>
+		<lastmod>2022-10-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Class</loc>
+		<lastmod>2022-10-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Contents</loc>
 		<lastmod>2022-10-13</lastmod>
 		<changefreq>monthly</changefreq>
@@ -19,6 +47,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:image.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:learning%2520to%2520use</loc>
 		<lastmod>2022-10-13</lastmod>
 		<changefreq>monthly</changefreq>
@@ -26,13 +59,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Machine%2520learning</loc>
-		<lastmod>2022-10-13</lastmod>
+		<lastmod>2022-10-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Math%2520learning</loc>
-		<lastmod>2022-10-13</lastmod>
+		<loc>https://onetwo.ren/wiki/#:Mapping%2520units:%25201%2520difference%2520in%2520mapping%2520units</loc>
+		<lastmod>2022-10-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Mapping%2520units:%25202%2520defference%2520in%2520slope%2520units</loc>
+		<lastmod>2022-10-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -56,7 +95,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:ML:2%2520Mapping%2520units</loc>
-		<lastmod>2022-10-13</lastmod>
+		<lastmod>2022-10-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -122,12 +161,6 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:try.bib</loc>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:vocabulary</loc>
-		<lastmod>2022-10-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
