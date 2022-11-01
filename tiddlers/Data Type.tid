@@ -1,5 +1,7 @@
 created: 20221101080759573
-modified: 20221101082801277
+creator: bbbbb
+modified: 20221101083802776
+modifier: bbbbb
 tags: C#
 title: Data Type
 type: text/vnd.tiddlywiki
@@ -12,7 +14,7 @@ type: text/vnd.tiddlywiki
 **强类型：编写程序时，程序中的数据受到数据类型的约束，即强类型编程语言
 **弱类型：数据受类型约束不严格，或基本不受约束，即弱类型编程语言（如 JavaScript 动态类型）
 
-! Type in C#
+! Type in C
 *一个 C# 类型中所包含的信息有：
 **存储此类型变量所需的内存空间大小
 **此类型的值可表示的最大、最小值范围
