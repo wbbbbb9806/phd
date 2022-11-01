@@ -24,7 +24,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Class</loc>
-		<lastmod>2022-10-14</lastmod>
+		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -35,8 +35,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Data%2520Type</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Dataset%2520selection:%25201%2520point,%2520circle%2520and%2520polygon%2520based%2520landslide</loc>
 		<lastmod>2022-10-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;Enumerations&apos;%2520by%2520bbbbb</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Enumerations</loc>
+		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -124,6 +142,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Reference%2520type</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Structures</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Summary:Dataset%2520creation</loc>
 		<lastmod>2022-10-13</lastmod>
 		<changefreq>monthly</changefreq>
@@ -161,6 +191,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:try.bib</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Value%2520type</loc>
+		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
