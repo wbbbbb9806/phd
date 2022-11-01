@@ -1,0 +1,30 @@
+created: 20221101080759573
+modified: 20221101082801277
+tags: C#
+title: Data Type
+type: text/vnd.tiddlywiki
+
+! What is type
+*又名data type
+**A data type is a ''homogeneous collection of values'', effectively presented, ''equipped with a set of operations'' which manipulate these values
+**是数据在内存中存储时的“型号”, 小内存容纳大尺寸数据会丢失精度、发生错误, 大内存容纳小尺寸数据会导致浪费
+*强类型语言与弱类型语言的比较
+**强类型：编写程序时，程序中的数据受到数据类型的约束，即强类型编程语言
+**弱类型：数据受类型约束不严格，或基本不受约束，即弱类型编程语言（如 JavaScript 动态类型）
+
+! Type in C#
+*一个 C# 类型中所包含的信息有：
+**存储此类型变量所需的内存空间大小
+**此类型的值可表示的最大、最小值范围
+**此类型所包含的成员（如方法、属性、事件等）
+**此类型由何基类派生而来
+**程序运行的时候，此类型的变量被分配在内存的什么位置
+*C#中的Type
+**Classes:Strng, Form
+**Structures:Int32, Single, Double
+**Enumerations
+**Interfaces
+**Delegates
+[img[image.png]]
+
+
