@@ -1,6 +1,6 @@
 created: 20221101080759573
 creator: bbbbb
-modified: 20221101083802776
+modified: 20221101090846142
 modifier: bbbbb
 tags: C#
 title: Data Type
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 **强类型：编写程序时，程序中的数据受到数据类型的约束，即强类型编程语言
 **弱类型：数据受类型约束不严格，或基本不受约束，即弱类型编程语言（如 JavaScript 动态类型）
 
-! Type in C
+! Type in C#
 *一个 C# 类型中所包含的信息有：
 **存储此类型变量所需的内存空间大小
 **此类型的值可表示的最大、最小值范围
@@ -28,5 +28,21 @@ type: text/vnd.tiddlywiki
 **Interfaces
 **Delegates
 [img[image.png]]
+
+! The variables
+*What is variables
+**变量用于储存数据
+**变量实质上''表示了数据的储存位置''，变量的类型决定了能存入什么数据
+**''变量=以变量名为起点，以变量类型所需空间为长度的一块内存区域''
+*变量的类型
+**静态变量
+**实例变量
+**数组元素
+**值参数
+**引用参数
+**输出参数
+**局部变量：方法体或函数体中声明的变量
+*变量的声明
+*有效的修饰符组合opt 类型 变量名 初始化器opt
 
 
