@@ -1,7 +1,28 @@
 created: 20221101083324616
 creator: bbbbb
-modified: 20221101083333975
+modified: 20221101092405683
 modifier: bbbbb
 tags: [[Data Type]]
 title: Reference type
 type: text/vnd.tiddlywiki
+
+`Student stu;`
+
+引用类型，直接给它分配 4 个字节，而且全部 Bit 置 0，表示该变量没有引用任何实例
+[img[image.png]]
+
+---
+```
+Student stu;
+stu = new Student();
+```
+[img[image1.png]]
+
+---
+```
+Student stu;
+stu = new Student();
+Student stu2;
+stu2 = stu;
+```
+[img[image2.png]]

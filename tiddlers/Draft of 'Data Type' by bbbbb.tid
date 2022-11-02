@@ -1,9 +1,11 @@
 created: 20221101080759573
 creator: bbbbb
-modified: 20221101092507653
+draft.of: Data Type
+draft.title: Data Type
+modified: 20221101092934255
 modifier: bbbbb
 tags: C#
-title: Data Type
+title: Draft of 'Data Type' by bbbbb
 type: text/vnd.tiddlywiki
 
 ! What is type
@@ -45,4 +47,22 @@ type: text/vnd.tiddlywiki
 *变量的声明
 *有效的修饰符组合,,opt,, 类型 变量名 初始化器,,opt,,
 
+! 装箱与拆箱
+*装箱：将值类型变量放到引用类型变量中
+```
+int a = 100;
+object x;
+x = a;
+```
+[img[image3.png]]
 
+[img[image4.png]]
+
+*拆箱：将引用类型中的属性值显示地转换为对应的值变量
+```
+int a = 100;
+object x;
+x = a;
+int b = (int)x;
+Console.WriteLine(b);
+```
