@@ -47,7 +47,24 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:datatype.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;Data%2520Type&apos;%2520by%2520bbbbb</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520bbbbb</loc>
+		<lastmod>2022-11-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Enumerations</loc>
 		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -60,6 +77,26 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:image.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:image1.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:image2.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:image3.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:image4.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -137,6 +174,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Reference%2520type</loc>
+		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Structures</loc>
 		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
